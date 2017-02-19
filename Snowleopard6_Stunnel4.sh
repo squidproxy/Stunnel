@@ -230,7 +230,7 @@ $RSA_Key_Size
 
 function Show_StunnelClient_config()
 {
-coloredEcho "Add blew info for your stunnel client" green
+coloredEcho "Add below info for your stunnel client" green
 coloredEcho "=============================================" green
 coloredEcho "Client conf"
 
